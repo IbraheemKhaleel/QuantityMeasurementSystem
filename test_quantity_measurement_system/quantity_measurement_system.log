@@ -1,0 +1,79 @@
+root | DEBUG | 2020-11-23 10:07:08,123 | centimeter length is 2000
+root | DEBUG | 2020-11-23 10:07:08,123 | centimeter length is 200
+root | DEBUG | 2020-11-23 10:07:08,123 | centimeter length is 300
+root | DEBUG | 2020-11-23 10:07:08,139 | centimeter length is 4500
+root | DEBUG | 2020-11-23 10:07:08,139 | centimeter length is 3500
+root | DEBUG | 2020-11-23 10:10:21,512 | centimeter length is 2000
+root | DEBUG | 2020-11-23 10:10:21,512 | centimeter length is 200
+root | DEBUG | 2020-11-23 10:10:21,512 | centimeter length is 300
+root | DEBUG | 2020-11-23 10:10:21,512 | centimeter length is 4500
+root | DEBUG | 2020-11-23 10:10:21,527 | centimeter length is 3500
+root | DEBUG | 2020-11-23 10:10:21,527 | kilometer length is 0.01
+root | DEBUG | 2020-11-23 10:10:21,527 | kilometer length is 2.0
+root | DEBUG | 2020-11-23 10:10:21,527 | kilometer length is 6.0
+root | DEBUG | 2020-11-23 10:10:21,543 | kilometer length is 5.0
+root | DEBUG | 2020-11-23 10:10:21,543 | kilogram weight is 5.0
+root | DEBUG | 2020-11-23 10:10:21,543 | kilogram weight is 2.0
+root | DEBUG | 2020-11-23 10:10:21,543 | kilogram weight is 56.0
+root | DEBUG | 2020-11-23 10:10:21,558 | kilogram weight is 8.66
+root | DEBUG | 2020-11-23 10:10:21,558 | milli gram weight is 2000
+root | DEBUG | 2020-11-23 10:10:21,558 | milli gram weight is 8000
+root | DEBUG | 2020-11-23 10:10:21,558 | milli gram weight is 63000
+root | DEBUG | 2020-11-23 10:10:21,558 | milli gram weight is 8963.0
+root | DEBUG | 2020-11-23 10:10:21,574 | fahrenheit temperature is 98.6
+root | DEBUG | 2020-11-23 10:10:21,574 | fahrenheit temperature is 118.4
+root | DEBUG | 2020-11-23 10:10:21,574 | fahrenheit temperature is 125.6
+root | DEBUG | 2020-11-23 10:10:21,574 | fahrenheit temperature is 57.2
+root | DEBUG | 2020-11-23 10:10:21,590 | celsius temperature is 38.89
+root | DEBUG | 2020-11-23 10:10:21,590 | celsius temperature is 475.0
+root | DEBUG | 2020-11-23 10:10:21,590 | celsius temperature is 17.22
+root | DEBUG | 2020-11-23 10:10:21,590 | celsius temperature is 62.78
+root | DEBUG | 2020-11-23 10:10:21,605 | celsius temperature is 8.0
+root | DEBUG | 2020-11-23 10:10:21,605 | celsius temperature is 5.0
+root | DEBUG | 2020-11-23 10:10:21,605 | celsius temperature is 89.0
+root | DEBUG | 2020-11-23 10:10:21,621 | celsius temperature is 24.0
+root | DEBUG | 2020-11-23 10:10:21,621 | kelvin temperature is 261.48
+root | DEBUG | 2020-11-23 10:10:21,621 | kelvin temperature is 308.71
+root | DEBUG | 2020-11-23 10:10:21,621 | kelvin temperature is 297.04
+root | DEBUG | 2020-11-23 10:10:21,637 | kelvin temperature is 274.82
+root | DEBUG | 2020-11-23 10:10:21,637 | fahrenheit temperature is -306.67
+root | DEBUG | 2020-11-23 10:10:21,637 | fahrenheit temperature is 287.33
+root | DEBUG | 2020-11-23 10:10:21,637 | fahrenheit temperature is -295.87
+root | DEBUG | 2020-11-23 10:10:21,652 | fahrenheit temperature is -74.47
+root | DEBUG | 2020-11-23 10:19:26,641 | centimeter length is 2000
+root | DEBUG | 2020-11-23 10:19:26,656 | centimeter length is 200
+root | DEBUG | 2020-11-23 10:19:26,656 | centimeter length is 300
+root | DEBUG | 2020-11-23 10:19:26,656 | centimeter length is 4500
+root | DEBUG | 2020-11-23 10:19:26,656 | centimeter length is 3500
+root | DEBUG | 2020-11-23 10:19:26,656 | kilometer length is 0.01
+root | DEBUG | 2020-11-23 10:19:26,672 | kilometer length is 2.0
+root | DEBUG | 2020-11-23 10:19:26,672 | kilometer length is 6.0
+root | DEBUG | 2020-11-23 10:19:26,672 | kilometer length is 5.0
+root | DEBUG | 2020-11-23 10:19:26,672 | kilogram weight is 5.0
+root | DEBUG | 2020-11-23 10:19:26,688 | kilogram weight is 2.0
+root | DEBUG | 2020-11-23 10:19:26,688 | kilogram weight is 56.0
+root | DEBUG | 2020-11-23 10:19:26,688 | kilogram weight is 8.66
+root | DEBUG | 2020-11-23 10:19:26,688 | milli gram weight is 2000
+root | DEBUG | 2020-11-23 10:19:26,688 | milli gram weight is 8000
+root | DEBUG | 2020-11-23 10:19:26,703 | milli gram weight is 63000
+root | DEBUG | 2020-11-23 10:19:26,703 | milli gram weight is 8963.0
+root | DEBUG | 2020-11-23 10:19:26,703 | fahrenheit temperature is 98.6
+root | DEBUG | 2020-11-23 10:19:26,719 | fahrenheit temperature is 118.4
+root | DEBUG | 2020-11-23 10:19:26,719 | fahrenheit temperature is 125.6
+root | DEBUG | 2020-11-23 10:19:26,719 | fahrenheit temperature is 57.2
+root | DEBUG | 2020-11-23 10:19:26,719 | celsius temperature is 38.89
+root | DEBUG | 2020-11-23 10:19:26,734 | celsius temperature is 475.0
+root | DEBUG | 2020-11-23 10:19:26,734 | celsius temperature is 17.22
+root | DEBUG | 2020-11-23 10:19:26,734 | celsius temperature is 62.78
+root | DEBUG | 2020-11-23 10:19:26,734 | celsius temperature is 8.0
+root | DEBUG | 2020-11-23 10:19:26,750 | celsius temperature is 5.0
+root | DEBUG | 2020-11-23 10:19:26,750 | celsius temperature is 89.0
+root | DEBUG | 2020-11-23 10:19:26,750 | celsius temperature is 24.0
+root | DEBUG | 2020-11-23 10:19:26,766 | kelvin temperature is 261.48
+root | DEBUG | 2020-11-23 10:19:26,766 | kelvin temperature is 308.71
+root | DEBUG | 2020-11-23 10:19:26,781 | kelvin temperature is 297.04
+root | DEBUG | 2020-11-23 10:19:26,781 | kelvin temperature is 274.82
+root | DEBUG | 2020-11-23 10:19:26,781 | fahrenheit temperature is -306.67
+root | DEBUG | 2020-11-23 10:19:26,797 | fahrenheit temperature is 287.33
+root | DEBUG | 2020-11-23 10:19:26,797 | fahrenheit temperature is -295.87
+root | DEBUG | 2020-11-23 10:19:26,797 | fahrenheit temperature is -74.47
